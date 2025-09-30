@@ -1,0 +1,24 @@
+@font-face {
+  font-family: "Helvetica-Light";
+  src: url("../assets/fonts/HelveticaNeue-Light.woff");
+}
+@font-face {
+  font-family: "Helvetica-Medium";
+  src: url("../assets/fonts/HelveticaNeue-Medium.woff");
+}
+@font-face {
+  font-family: "Gilroy-Medium";
+  src: url("../assets/fonts/Gilroy-Medium.ttf");
+}
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url("../assets/fonts/Gilroy-Bold.ttf");
+}
+@font-face {
+  font-family: "Kepler-std";
+  src: url("../assets/fonts/Kepler-Std-Black-Semicondensed-Italic.otf");
+}
+@font-face {
+  font-family: "Kairos-Sans";
+  src: url("../assets/fonts/Kairos-Sans.ttf");
+}

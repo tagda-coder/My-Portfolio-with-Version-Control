@@ -108,4 +108,4 @@ git push origin v2
 
 ---
 
-👉 Mandeep, do you want me to give you a **ready-to-use `index.html` hub template** (with styled buttons for v1, v2, v3) so you can just drop it in and start?
+Made with ❤️
